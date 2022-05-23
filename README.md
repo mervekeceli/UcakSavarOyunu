@@ -18,11 +18,5 @@ Uygulamayı indirdikten sonra Visual Studio 2019 uygulamasında Run komutu ile �
   <img src="https://github.com/mervekeceli/UcakSavarOyunu/blob/main/img/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(126).png" width="400px;" alt=""/>
 </div>
 
-<br />
-## 🎯 Uygulama Sahibi
-<table>
-  <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/merveekeceli/"><img src="https://avatars.githubusercontent.com/u/56134222?v=4" width="100px;" alt=""/><br /><sub><b>Merve Keçeli</b></sub></a><br /></td>
-  </tr>
-</table>
+
 
