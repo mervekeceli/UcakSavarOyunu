@@ -23,5 +23,6 @@ Uygulamayı indirdikten sonra Visual Studio 2019 uygulamasında Run komutu ile �
 <table>
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/merveekeceli/"><img src="https://avatars.githubusercontent.com/u/56134222?v=4" width="100px;" alt=""/><br /><sub><b>Merve Keçeli</b></sub></a><br /></td>
-   </tr>
+  </tr>
 </table>
+
