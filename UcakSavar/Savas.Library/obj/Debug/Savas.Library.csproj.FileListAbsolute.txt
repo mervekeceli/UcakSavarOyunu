@@ -1,0 +1,12 @@
+C:\Users\merve keçeli\Desktop\UcakSavar\Savas.Library\bin\Debug\Savas.Library.dll
+C:\Users\merve keçeli\Desktop\UcakSavar\Savas.Library\bin\Debug\Savas.Library.pdb
+C:\Users\merve keçeli\Desktop\UcakSavar\Savas.Library\obj\Debug\Savas.Library.csprojAssemblyReference.cache
+C:\Users\merve keçeli\Desktop\UcakSavar\Savas.Library\obj\Debug\Savas.Library.csproj.CoreCompileInputs.cache
+C:\Users\merve keçeli\Desktop\UcakSavar\Savas.Library\obj\Debug\Savas.Library.dll
+C:\Users\merve keçeli\Desktop\UcakSavar\Savas.Library\obj\Debug\Savas.Library.pdb
+C:\Users\merve\Desktop\UcakSavar\Savas.Library\bin\Debug\Savas.Library.dll
+C:\Users\merve\Desktop\UcakSavar\Savas.Library\bin\Debug\Savas.Library.pdb
+C:\Users\merve\Desktop\UcakSavar\Savas.Library\obj\Debug\Savas.Library.csproj.CoreCompileInputs.cache
+C:\Users\merve\Desktop\UcakSavar\Savas.Library\obj\Debug\Savas.Library.dll
+C:\Users\merve\Desktop\UcakSavar\Savas.Library\obj\Debug\Savas.Library.pdb
+C:\Users\merve\Desktop\UcakSavar\Savas.Library\obj\Debug\Savas.Library.csproj.AssemblyReference.cache

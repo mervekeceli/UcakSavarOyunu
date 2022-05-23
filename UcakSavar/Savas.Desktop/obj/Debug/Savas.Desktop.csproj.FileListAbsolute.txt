@@ -1,0 +1,26 @@
+C:\Users\merve keçeli\Desktop\UcakSavar\Savas.Desktop\bin\Debug\SavasOyunu.exe.config
+C:\Users\merve keçeli\Desktop\UcakSavar\Savas.Desktop\bin\Debug\SavasOyunu.exe
+C:\Users\merve keçeli\Desktop\UcakSavar\Savas.Desktop\bin\Debug\SavasOyunu.pdb
+C:\Users\merve keçeli\Desktop\UcakSavar\Savas.Desktop\bin\Debug\Savas.Library.dll
+C:\Users\merve keçeli\Desktop\UcakSavar\Savas.Desktop\bin\Debug\Savas.Library.pdb
+C:\Users\merve keçeli\Desktop\UcakSavar\Savas.Desktop\obj\Debug\Savas.Desktop.csprojAssemblyReference.cache
+C:\Users\merve keçeli\Desktop\UcakSavar\Savas.Desktop\obj\Debug\Savas.Desktop.AnaForm.resources
+C:\Users\merve keçeli\Desktop\UcakSavar\Savas.Desktop\obj\Debug\Savas.Desktop.Properties.Resources.resources
+C:\Users\merve keçeli\Desktop\UcakSavar\Savas.Desktop\obj\Debug\Savas.Desktop.csproj.GenerateResource.cache
+C:\Users\merve keçeli\Desktop\UcakSavar\Savas.Desktop\obj\Debug\Savas.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\merve keçeli\Desktop\UcakSavar\Savas.Desktop\obj\Debug\Savas.Desktop.csproj.CopyComplete
+C:\Users\merve keçeli\Desktop\UcakSavar\Savas.Desktop\obj\Debug\SavasOyunu.exe
+C:\Users\merve keçeli\Desktop\UcakSavar\Savas.Desktop\obj\Debug\SavasOyunu.pdb
+C:\Users\merve\Desktop\UcakSavar\Savas.Desktop\bin\Debug\SavasOyunu.exe.config
+C:\Users\merve\Desktop\UcakSavar\Savas.Desktop\bin\Debug\SavasOyunu.exe
+C:\Users\merve\Desktop\UcakSavar\Savas.Desktop\bin\Debug\SavasOyunu.pdb
+C:\Users\merve\Desktop\UcakSavar\Savas.Desktop\bin\Debug\Savas.Library.dll
+C:\Users\merve\Desktop\UcakSavar\Savas.Desktop\bin\Debug\Savas.Library.pdb
+C:\Users\merve\Desktop\UcakSavar\Savas.Desktop\obj\Debug\Savas.Desktop.AnaForm.resources
+C:\Users\merve\Desktop\UcakSavar\Savas.Desktop\obj\Debug\Savas.Desktop.Properties.Resources.resources
+C:\Users\merve\Desktop\UcakSavar\Savas.Desktop\obj\Debug\Savas.Desktop.csproj.GenerateResource.cache
+C:\Users\merve\Desktop\UcakSavar\Savas.Desktop\obj\Debug\Savas.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\merve\Desktop\UcakSavar\Savas.Desktop\obj\Debug\Savas.Desktop.csproj.CopyComplete
+C:\Users\merve\Desktop\UcakSavar\Savas.Desktop\obj\Debug\SavasOyunu.exe
+C:\Users\merve\Desktop\UcakSavar\Savas.Desktop\obj\Debug\SavasOyunu.pdb
+C:\Users\merve\Desktop\UcakSavar\Savas.Desktop\obj\Debug\Savas.Desktop.csproj.AssemblyReference.cache
