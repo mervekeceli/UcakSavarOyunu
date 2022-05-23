@@ -1,16 +1,4 @@
-﻿/****************************************************************************
-**					SAKARYA ÜNİVERSİTESİ
-**				BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ
-**				    BİLİŞİM SİSTEMLERİ MÜHENDİSLİĞİ BÖLÜMÜ
-**				   NESNEYE DAYALI PROGRAMLAMA DERSİ
-**					2020 - 2021 BAHAR DÖNEMİ
-**	
-**				ÖDEV NUMARASI..........: B20120071
-**				ÖĞRENCİ ADI............: AHMET
-**				ÖĞRENCİ SOYADI.........: KEŞAB
-**              DERSİN ALINDIĞI GRUP...: 1-A
-****************************************************************************/
-using System;
+﻿using System;
 using System.Drawing;
 using System.Windows.Forms;
 using Savas.Library.Enum;
